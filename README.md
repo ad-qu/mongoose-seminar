@@ -6,7 +6,7 @@ IMPORTANT COMMANDS
     node -v
     npm -v
 
-- Global instalation 
+- Global installation 
 
     npm i typescript -g 
     npm i ts-node -g 

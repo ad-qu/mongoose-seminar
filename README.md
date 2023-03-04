@@ -1,24 +1,20 @@
-# mongoose-seminar
- EA exercise made to practice with TypeScript, MongoDB & Mongoose.
+IMPORTANT COMMANDS
+------------------
 
- ------------------
- IMPORTANT COMMANDS
- ------------------
+- Check versions
 
- - Check versions -
+    node -v
+    npm -v
 
- node -v
- npm -v
+- Global instalation 
 
- - Global instalation - 
+    npm i typescript -g 
+    npm i ts-node -g 
+    npm i nodemon -g
 
- npm i typescript -g 
- npm i ts-node -g 
- npm i nodemon -g
+- Prepare project 
 
- - Prepare project - 
-
- tsc --init 
- npm init -y
- npm i express cors dotenv multer mongoose
- npm i @types/express @types/cors @types/dotenv @types/multer @types/mongoose -D
+    tsc --init 
+    npm init -y
+    npm i express cors dotenv multer mongoose
+    npm i @types/express @types/cors @types/dotenv @types/multer @types/mongoose -D

@@ -12,8 +12,8 @@ const PartySchema = new Schema<Party>(
             required: true,
         },
         users:{
-            type: Schema.Types.ObjectId,
-            ref: "User",
+            type: [Schema.Types.ObjectId],
+            ref: 'User',
         }
     }
 );
